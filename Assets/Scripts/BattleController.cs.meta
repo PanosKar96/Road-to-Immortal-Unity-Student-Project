@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 01d753d8ae3829549bbb90217132a731
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heroImage: {instanceID: 0}
+  - enemyImage: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - attackButton: {instanceID: 0}
+  - specialButton: {instanceID: 0}
+  - heroHP: {instanceID: 0}
+  - enemyHP: {instanceID: 0}
+  - juggernautSprite: {instanceID: 0}
+  - drowSprite: {instanceID: 0}
+  - kotlSprite: {instanceID: 0}
+  - creepsSprite: {instanceID: 0}
+  - primalBeastSprite: {instanceID: 0}
+  - roshanSprite: {instanceID: 0}
+  - heroName: {instanceID: 0}
+  - enemyName: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
